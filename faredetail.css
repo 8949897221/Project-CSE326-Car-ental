@@ -1,0 +1,25 @@
+body{
+    
+    margin: auto;
+    padding: 0%;
+    width: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(HD-wallpaper-evening-date-place-car-ride-couple-love-artist-artwork-digital-art-behance.jpg);
+    background-size: contain;
+}
+.heading{
+    text-decoration: underline solid black;
+    font-size: 50px;
+}
+.form{
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    text-align: center;
+    border-width: 10px;
+    border-radius: 6px;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    border: solid black 5px;
+}
+

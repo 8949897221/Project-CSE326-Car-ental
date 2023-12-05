@@ -1,0 +1,51 @@
+button {
+    color: blue;
+    padding: 3px;
+    box-shadow: inset;
+    border-radius: 70px;
+    background-color: yellowgreen
+}
+
+body{ background: linear-gradient(90deg,pink,wheat);
+    background-image: url(https://www.enterprise.ca/content/dam/ent-brand/replacement-rental-launchpad-review.jpg);
+
+}
+form{
+    background-color: rgb(204, 175, 175);
+}
+div.container{
+    max-width: 900px;
+    margin: 0px auto;
+
+    
+}
+div.apply-box{
+    max-width: 600px;
+    padding: 20px;
+    margin: 0px auto;
+    margin-top: 50px;
+    border: 1px solid;
+   
+    box-shadow: 0 4px 30px
+    rgb(30, 0, 255);
+    border-radius: 40px;
+
+}
+div.title-small{
+    font-size: 20px;
+}
+div.form-container{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 
+    repeat(auto-fit,minmax
+    (200px, 1fr));
+    gap: 20px;
+}
+div.form-control{
+    display: flex;
+    flex-direction: column;
+}
+.button{
+    text-align:center;
+}
